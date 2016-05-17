@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reto Android</string>
+    <string name="edit_text">Enter information</string>
+    <string name="send">SEND</string>
+</resources>
